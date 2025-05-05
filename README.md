@@ -47,6 +47,27 @@ Create a web application that recommends appropriate SHL assessments based on a 
 - Asynchronous frontend-backend communication
 - Case-insensitive matching for better user experience
 - Modular data structure for easy updates
+### 5. Now you can test different inputs and get different recommendations:
+For Python Developer:
+Role: Software Developer
+Skills: Python
+You'll get: SHL Python Developer Assessment
+For C++ Developer:
+Role: Software Developer
+Skills: C++
+You'll get: SHL C++ Developer Assessment
+For Data Scientist:
+Role: Data Scientist
+Skills: Python, Machine Learning
+You'll get: SHL Data Science Assessment
+For Frontend Developer:
+Role: Frontend Developer
+Skills: JavaScript, HTML, CSS
+You'll get: SHL Frontend Developer Assessment
+For Other Roles/Skills:
+Role: Manager
+Skills: Leadership
+You'll get: SHL Cognitive Ability Test
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
