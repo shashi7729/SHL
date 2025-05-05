@@ -1,0 +1,28 @@
+{
+    "assessments": {
+        "python": {
+            "title": "SHL Python Developer Assessment",
+            "description": "Test your Python programming skills",
+            "duration": "60 minutes",
+            "difficulty": "Intermediate",
+            "skills": ["Python", "Programming", "Problem Solving"],
+            "role": "Software Developer"
+        },
+        "c++": {
+            "title": "SHL C++ Developer Assessment",
+            "description": "Test your C++ programming skills",
+            "duration": "60 minutes",
+            "difficulty": "Advanced",
+            "skills": ["C++", "Programming", "Problem Solving"],
+            "role": "Software Developer"
+        },
+        "cognitive": {
+            "title": "SHL Cognitive Ability Test",
+            "description": "Test your problem-solving and analytical skills",
+            "duration": "45 minutes",
+            "difficulty": "General",
+            "skills": ["Analytical Thinking", "Problem Solving"],
+            "role": "General"
+        }
+    }
+} 
