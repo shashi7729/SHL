@@ -51,4 +51,6 @@ Create a web application that recommends appropriate SHL assessments based on a 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run server: `python app.py`
-3. Access application at: `http://localhost:5000` 
+3. Access application at: `http://localhost:5000`
+4. run in web browser http://127.0.0.1:5000/
+   
