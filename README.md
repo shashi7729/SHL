@@ -52,18 +52,22 @@ For Python Developer:
 Role: Software Developer
 Skills: Python
 You'll get: SHL Python Developer Assessment
+
 For C++ Developer:
 Role: Software Developer
 Skills: C++
 You'll get: SHL C++ Developer Assessment
+
 For Data Scientist:
 Role: Data Scientist
 Skills: Python, Machine Learning
 You'll get: SHL Data Science Assessment
+
 For Frontend Developer:
 Role: Frontend Developer
 Skills: JavaScript, HTML, CSS
 You'll get: SHL Frontend Developer Assessment
+
 For Other Roles/Skills:
 Role: Manager
 Skills: Leadership
